@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="501a9ae4-49c1-4871-809e-dcec28805cbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/demo/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/com/demo/producer/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/com/demo/producer/ProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/src/main/java/com/demo/reactiveproducer/ReactiveProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/src/main/java/com/demo/reactiveproducer/controller/FluxGreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/src/main/java/com/demo/reactiveproducer/controller/ReactiveGreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/src/test/java/com/demo/reactiveproducer/FluxGreetingControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-producer/src/test/java/com/demo/reactiveproducer/ReactiveGreetingControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2n328VO4mtsaQRSWIeFwRcUyeYe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConsumerApplication (1).executor": "Debug",
+    "Application.ConsumerApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ProducerApplication.executor": "Run",
+    "Application.ReactiveProducerApplication (1).executor": "Run",
+    "Application.ReactiveProducerApplication.executor": "Run",
+    "Application.com.demo.reactiveproducer.ReactiveProducerApplication.executor": "Run",
+    "JUnit.ReactiveGreetingControllerTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/kukumar/Desktop/code/SpringBoot/SpringMultiModuleBasic/src/main/java/kkm/springboot/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.demo.reactiveproducer" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.demo.reactiveproducer.ReactiveProducerApplication">
+    <configuration name="ConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerApplication" />
+      <module name="SpringMultiModuleBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.producer.ProducerApplication" />
+      <module name="producer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.demo.consumer.ConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.consumer.ConsumerApplication" />
+      <module name="consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.demo.reactiveproducer.ReactiveProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.reactiveproducer.ReactiveProducerApplication" />
+      <module name="reactive-producer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveGreetingControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactive-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.reactiveproducer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.reactiveproducer" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.reactiveproducer.ReactiveGreetingControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.demo.reactiveproducer.ReactiveProducerApplication" />
+        <item itemvalue="JUnit.ReactiveGreetingControllerTest" />
+        <item itemvalue="Application.ProducerApplication" />
+        <item itemvalue="Application.com.demo.consumer.ConsumerApplication" />
+        <item itemvalue="Application.ConsumerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="501a9ae4-49c1-4871-809e-dcec28805cbc" name="Changes" comment="" />
+      <created>1728187280428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728187280428</updated>
+    </task>
+    <servers />
+  </component>
+</project>
